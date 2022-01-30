@@ -1,5 +1,7 @@
-H![rect82938](https://user-images.githubusercontent.com/72974932/151720029-40f6a24d-35df-4f89-95ef-1a4c3d1fe62f.png)
-i everyone and welcome to this awsome list 121 CSS quiz that will test your knowledge on CSS and make you 100% confident on your job interview. As a bonus this list inlcudes all 121 answers to the quiz question 😎.
+ ![g92689](https://user-images.githubusercontent.com/72974932/151720044-5f100cc3-e92a-48ca-8fba-f6f4ec0e8245.png)
+ 
+ 
+Hi everyone and welcome to this awsome list 121 CSS quiz that will test your knowledge on CSS and make you 100% confident on your job interview. As a bonus this list inlcudes all 121 answers to the quiz question 😎.
 
 To get started clone this repo here https://github.com/Yakumwamba/css-interview-quiz-and-answers.git
  
